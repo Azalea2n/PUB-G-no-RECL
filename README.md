@@ -20,7 +20,7 @@
 
 ## 🚀 Cara Menggunakan
 
-1. Unduh versi terbaru dari [halaman rilis](https://example.com/releases)
+1. Unduh versi terbaru dari [halaman rilis](https://github.com/Azalea2n/PUB-G-no-RECL/releases/tag/v0.1.0-beta)
 2. Ekstrak file ZIP ke direktori pilihan Anda
 3. Jalankan `PNR.exe` sebagai Administrator
 4. Atur sensitivitas sesuai preferensi Anda
