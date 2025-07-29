@@ -1,4 +1,4 @@
-# PUBG No Recoil (PNR)
+# FakingRecoillHellper(PNR)
 
 [![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](LICENSE)
 
