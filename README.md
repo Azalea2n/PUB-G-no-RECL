@@ -4,36 +4,8 @@
 
 > **Penting**: Aplikasi ini dirancang untuk keperluan edukasi dan penggunaan pribadi. Penggunaan yang tidak sesuai dengan ketentuan game dapat melanggar Terms of Service dari PUBG. Gunakan dengan tanggung jawab.
 
-## 🎯 Fitur Utama
+![JvGRa_XE](https://github.com/user-attachments/assets/fbc791f6-ce25-4b61-a845-a726e4a527bd)
 
-- **Kontrol Recoil Otomatis** untuk berbagai senjata
-- **Antarmuka User-Friendly** dengan pengaturan yang mudah
-- **Dukungan Multi-Senjata** (AR, SMG, DMR, LMG)
-- **Kustomisasi Pola Recoil** sesuai preferensi
-- **Ringan & Efisien** - Dikembangkan dengan Rust untuk performa optimal
-
-## 📦 Persyaratan Sistem
-
-- Windows 10/11 (64-bit)
-- .NET Framework 4.7.2 atau lebih baru
-- Hak akses Administrator (diperlukan untuk kontrol input)
-
-## 🚀 Cara Menggunakan
-
-1. Unduh versi terbaru dari [halaman rilis](https://github.com/Azalea2n/PUB-G-no-RECL/releases/tag/v0.1.0-beta)
-2. Ekstrak file ZIP ke direktori pilihan Anda
-3. Jalankan `PNR.exe` sebagai Administrator
-4. Atur sensitivitas sesuai preferensi Anda
-5. Tekan `F2` untuk mengaktifkan/menonaktifkan
-
-## 🛠️ Pengaturan
-
-| Tombol | Fungsi |
-|--------|--------|
-| F2 | Aktifkan/Nonaktifkan |
-| F3 | Ganti profil senjata |
-| F4 | Tampilkan/Sembunyikan antarmuka |
-| F5 | Reload konfigurasi |
 
 ## ⚠️ Disclaimer
 
