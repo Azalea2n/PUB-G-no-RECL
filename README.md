@@ -1,4 +1,4 @@
-# FakingRecoillHellper(PNR)
+# FakingRecoillHellper
 
 [![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](LICENSE)
 
