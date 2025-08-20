@@ -9,7 +9,7 @@
 
 ## ⚠️ Disclaimer
 
-Aplikasi ini dibuat untuk tujuan edukasi. Kami tidak bertanggung jawab atas penggunaan yang melanggar ketentuan layanan PUBG. Gunakan dengan risiko Anda sendiri.
+Aplikasi ini dibuat untuk tujuan edukasi. Kami tidak bertanggung jawab atas penggunaan yang melanggar ketentuan layanan PxBG. Gunakan dengan risiko Anda sendiri.
 
 ## 📄 Lisensi
 
